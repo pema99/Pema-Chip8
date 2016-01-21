@@ -1,0 +1,2 @@
+2016-01-21 21:26:00.784 Pema-Chip8[24364:1579075] Failed to connect (colorGridView) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
+2016-01-21 21:26:00.784 Pema-Chip8[24364:1579075] Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
